@@ -1,3 +1,5 @@
+Made this UI Design my self in FIGMA
+
 Exercise tracking app learning by doing it.
 
 https://user-images.githubusercontent.com/106878143/206937186-87e0a6de-038f-4690-bf68-79a233afdf1e.mp4
