@@ -1,11 +1,27 @@
-# Exercise-Tracking-App
+![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
-Learning progress.
+# Egg Timer
 
-This app is just let you select the 3 basic exercises predefined in the app when you select it it will run a timer to let you know when it's the time to stop.
+## Our Goal
+
+This module will be a mix of tutorials and challenges. Most importantly, we want you to get comfortable with looking up how to do something you've never done before. In certain places of this module, you’ll need to follow the 5 step process you learnt in the Xylophone module and use Google search, StackOverflow and Apple Documentation to make your code do what you want it to. But there are also other parts where we’ll take you step-by-step through new Swift programming concepts. 
+
+## What You'll Make
+
+You’ll be building a beautiful egg timer app to boil your eggs to perfection depending on how you prefer your eggs. 
+
+## What you will learn
+
+* Swift Collection types - Dictionaries
+* The Swift Timer API
+* Conditional statements - IF/ELSE
+* Conditional statements - Switch
+* Functions with outputs
+* How to use the ProgressView
 
 
 
-https://user-images.githubusercontent.com/106878143/206936117-4feac032-e1aa-4e6f-9c58-3b44ae6d1303.mp4
+>This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
-![Screenshot](https://user-images.githubusercontent.com/106878143/206936122-51e5b4e3-9aaf-4e9d-acc3-6ea737f86627.png)
+![End Banner](Documentation/readme-end-banner.png)
+
